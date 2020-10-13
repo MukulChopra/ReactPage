@@ -364,7 +364,3 @@ The following is an incomplete list of Enzyme API. It should give you a general 
 - `.state([key])`: Returns the state of the root component
 - `.setState(nextState)`: Manually sets state of the root component
 - `.setProps(nextProps)`: Manually sets props of the root component
-
-## Licence
-
-MIT
